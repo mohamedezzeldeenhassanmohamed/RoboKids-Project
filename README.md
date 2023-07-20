@@ -1,8 +1,7 @@
 # RoboKids (Graduation Project-Excellent degree)
 
-The project developed a native Android mobile app using Kotlin, It was built in order to provide children’s assistance in education, such as learning to write on the smart board, and it is returned whether he wrote correctly or not, using 
-# **machine learning**. 
-In learning to pronounce, there is also a self-response whether the child’s pronunciation is correct or not, and some tests were also put in place, and parents can follow their children By sending reports for each son, the parents are the ones who control the registration, modification, or even deletion of the children. And this application was linked to a robot via Bluetooth in order to interact with the child, and # **artificial intelligence was linked to the application by using socket-programming, and the app Supports Arabic and English**.
+The project developed a native Android mobile app using Kotlin, It was built in order to provide children’s assistance in education, such as learning to write on the smart board, and it is returned whether he wrote correctly or not, using **machine learning**.
+In learning to pronounce, there is also a self-response whether the child’s pronunciation is correct or not, and some tests were also put in place, and parents can follow their children By sending reports for each son, the parents are the ones who control the registration, modification, or even deletion of the children. And this application was linked to a robot via Bluetooth in order to interact with the child, and **artificial intelligence was linked to the application by using socket-programming, and the app Supports Arabic and English**.
 
 Documentation  : https://drive.google.com/file/d/1z6PDPSP4K12QNulc2n0k43Pnxil1KkqV/view?usp=sharing
 <br>
@@ -11,16 +10,17 @@ Presentation   :
 Software Video : https://www.youtube.com/watch?v=8Kj0cpTen58
 <br>
 Hardware video : https://www.youtube.com/watch?v=Xb_TqNN-_FU&t=0s
-
+# AI
 - Python
-- ML / DL / AI
-- Handwriting Recognition System
-- Speech Recognition System
-- Socket Programming
-- Google Cloud
+- ML / DL / AI / Cloud / NLP
+- Socket Programming / Distributed Systems
+- Google Cloud Vision API
 - Transformers
-- Pytorch
-- 
+- Pytorch Framework
+- Encoder / Decoder DL / CNN / CTC 
+- Handwriting Recognition System
+- Automatic Speech Recognition System
+# ROBOT
 - Kotlin programming language
 - Architecture Pattern (MVVM)
 - Dependency injection (Dagger-Hilt)
@@ -33,7 +33,6 @@ Hardware video : https://www.youtube.com/watch?v=Xb_TqNN-_FU&t=0s
 - Android Bluetooth
 - Python SDK for Android (Chaquopy)
 
-  
 
 <div align=center>
   <img src="https://github.com/Mohamed-samir03/RoboKids/assets/81251707/4a88fdb5-d89b-4ed8-bfaa-d61fcff1632f">
@@ -51,3 +50,9 @@ Hardware video : https://www.youtube.com/watch?v=Xb_TqNN-_FU&t=0s
   <img src="https://github.com/Mohamed-samir03/RoboKids/assets/81251707/0ac0f568-605d-469d-b55d-6cea1f7b5a7d" height="280" width="200">
   <img src="https://github.com/Mohamed-samir03/RoboKids/assets/81251707/5bc54b7f-c67e-4308-b61f-b44a3943a08e" height="280" width="200">
 </div>
+
+
+# FINAL-STRUCTURE ------>
+![3](https://github.com/mohamedezzeldeenhassanmohamed/RoboKids-Project/assets/94178842/995512fe-a909-4dec-a497-4abcc2239e91)
+![1](https://github.com/mohamedezzeldeenhassanmohamed/RoboKids-Project/assets/94178842/2f70956e-4c90-40d0-a627-bff5de04fda9)
+![2](https://github.com/mohamedezzeldeenhassanmohamed/RoboKids-Project/assets/94178842/cbd55439-5370-47ac-ac7e-49155c2c1bf6)
