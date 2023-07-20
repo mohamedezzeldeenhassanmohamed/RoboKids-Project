@@ -5,7 +5,7 @@ In learning to pronounce, there is also a self-response whether the child’s pr
 
 Documentation  : https://drive.google.com/file/d/1z6PDPSP4K12QNulc2n0k43Pnxil1KkqV/view?usp=sharing
 <br>
-Presentation   : 
+Presentation   : [RoboKids.pptx](https://github.com/mohamedezzeldeenhassanmohamed/RoboKids-Project/files/12113560/RoboKids.pptx)
 <br>
 Software Video : https://www.youtube.com/watch?v=8Kj0cpTen58
 <br>
